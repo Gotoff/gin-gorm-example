@@ -3,7 +3,7 @@
 
 ## 安装
 ```
-go get github.com/Gopherlinzy/gin-gorm-example
+go get github.com/Gotoff/gin-gorm-example
 ```
 
 # 如何运行
